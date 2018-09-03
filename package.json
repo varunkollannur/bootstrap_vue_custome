@@ -18,6 +18,12 @@
   "homepage": "https://github.com/varunkollannur/bootstrap_vue_custome#readme",
   "dependencies": {
     "bootstrap": "^4.0.0-alpha.6",
-    "bootstrap-vue": "^2.0.0-rc.11"
+    "bootstrap-vue": "^2.0.0-rc.11",
+    "browser-sync": "^2.24.7",
+    "gulp": "^3.9.1",
+    "vue": "^2.5.17"
+  },
+  "devDependencies": {
+    "gulp-sass": "^4.0.1"
   }
 }
