@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap_vue_custome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varunkollannur/bootstrap_vue_custome.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varunkollannur/bootstrap_vue_custome/issues"
+  },
+  "homepage": "https://github.com/varunkollannur/bootstrap_vue_custome#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "bootstrap-vue": "^2.0.0-rc.11"
+  }
+}
